@@ -39,37 +39,6 @@ Ensure you have the following installed:
    ```
    Your app will be running on `http://localhost:3000`.
 
-## Project Structure
-
-```
-.
-├── src
-│   ├── components
-│   │   ├── Navbar
-│   │   ├── Footer
-│   │   ├── Breadcrum
-│   │   ├── Item
-│   │   ├── Hero
-│   │   ├── Popular
-│   │   ├── Offers
-│   │   ├── Newcollection
-│   │   ├── Newsletter
-│   ├── Pages
-│   │   ├── Cart
-│   │   ├── LoginSignup
-│   │   ├── Product
-│   │   ├── Shop
-│   │   ├── ShopCategory
-│   ├── context
-│   │   └── ShopContext.js
-│   ├── assets
-│   ├── App.js
-│   └── index.js
-├── public
-│   ├── index.html
-├── README.md
-└── package.json
-```
 
 ## Features
 
