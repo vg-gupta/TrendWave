@@ -5,7 +5,6 @@ This project is a fully-featured e-commerce website built with React. It provide
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Features](#features)
 - [Components](#components)
 - [Dependencies](#dependencies)
