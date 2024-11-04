@@ -1,7 +1,3 @@
-Certainly! Here’s the README file in markdown format so you can easily copy and paste it:
-
----
-
 #  TrendWave -Commerce Website
 
 This project is a fully-featured e-commerce website built with React. It provides users with a variety of products, organized by categories, and offers features such as browsing products, viewing details, adding items to the cart, and user authentication.
@@ -114,6 +110,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 This project is licensed under the MIT License.
 
---- 
-
-This README includes all the necessary sections and instructions in markdown format for easy use.
